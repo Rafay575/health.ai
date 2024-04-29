@@ -1,9 +1,9 @@
 import React from "react";
 import icon01 from "../assets/images/Picture24.png";
 import icon02 from "../assets/images/Picture25.jpg";
-import icon03 from "../assets/videos/PatientDashoboard.gif";
+//import icon03 from "../assets/videos/PatientDashoboard.gif";
 // import icon02 from "../assets/images/Picture25.jpg";
-const careTeamMedia = [icon01, icon02, icon03];
+const careTeamMedia = [icon01, icon02, icon02];
 
 const Careteam = () => {
     return (
