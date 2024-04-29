@@ -1,0 +1,20 @@
+.swiper-slide.swiper-slide-next {
+    background: linear-gradient(
+        90deg,
+        #551880 0%,
+        #c10891 100%
+    ) !important;
+}
+
+
+.swiper-pagination-bullet-active {
+    background: linear-gradient(
+        90deg,
+        #551880 0%,
+        #c10891 100%
+    ) !important;
+
+}
+.accordion-content {
+    transition: max-height 0.7s ease-in-out;
+  }
